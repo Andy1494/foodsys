@@ -111,5 +111,5 @@
 	
 </div>
 </body>
-<footer style="background-color:#A5EEF5"><center>&#169; 2021 | Coded by Sahabat Food Service milo do</center></footer>
+<footer style="background-color:#A5EEF5"><center>&#169; 2021 | Coded by Sahabat Food Service</center></footer>
 </html>
